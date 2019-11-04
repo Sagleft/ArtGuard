@@ -24,7 +24,7 @@
 name=unknown
 image=image:intersqubrex_1.png
 author=sagleft
-signature=INXKXIfFz6+IfUVozhBnU2Q0YJdxDCR5T6Q3MGNwuKttCtgxgENE6C/BXjrKJv074iLXNdwgdniY75Yk/rk4AOI=
+signature=IAuLfYGNRs28bQZc+uCbwvi7pV/3YAwTo/BomAzFNDMoLbOIE3RauutfN5Z/Z62VEm87fjAzwQcJatctdTBZZJs=
 type=sketch
 info=изображено, что мозг выпал из комфортной коляски и встретился с безразличной вселенной
 ```
@@ -40,7 +40,7 @@ info=изображено, что мозг выпал из комфортной 
 Получение `signature`:
 подписать сообщение с содержанием:
 * имя NVS-записи произведения.
-* например, `image:intersqubrex_1.png`
+* например, `image:intersqubrex_1.jpg`
 
 подписать адресом:
 * указанным в поле `author` - MFCoin-адрес или другая NVS запись, адрес которой использовать.
@@ -48,10 +48,10 @@ info=изображено, что мозг выпал из комфортной 
 
 Вы можете проверить подпись этого сообщения:
 * адрес: `Me8xgLsEWUNaJe9ZMRh79mzsPFhubCLUHK`
-* сообщение: `image:intersqubrex_1.png`
+* сообщение: `art:intersqubrex:1`
 * подпись:
 ```
-INXKXIfFz6+IfUVozhBnU2Q0YJdxDCR5T6Q3MGNwuKttCtgxgENE6C/BXjrKJv074iLXNdwgdniY75Yk/rk4AOI=
+IAuLfYGNRs28bQZc+uCbwvi7pV/3YAwTo/BomAzFNDMoLbOIE3RauutfN5Z/Z62VEm87fjAzwQcJatctdTBZZJs=
 ```
 
 Записи можно посмотреть через [Block Explorer](https://explorer.mfcoin.net) или через ПК-кошелек.
