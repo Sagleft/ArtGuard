@@ -1,5 +1,5 @@
 
-# Freeland Adguard Service
+# Freeland Artguard Service
 
 ![logo](https://sagleft.ru/projects/freeland/artguard/logo-256.png)
 
