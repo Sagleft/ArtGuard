@@ -62,3 +62,9 @@ IAuLfYGNRs28bQZc+uCbwvi7pV/3YAwTo/BomAzFNDMoLbOIE3RauutfN5Z/Z62VEm87fjAzwQcJatct
 (возможно, позже появится онлайн-утилита для работы с сервисом, пока только описание работы в ручном режиме)
 
 TODO: описание как в ПК-кошельке это все записать.
+
+---
+
+![image](https://github.com/Sagleft/Sagleft/raw/master/image.png)
+
+### :globe_with_meridians: [Telegram канал](https://t.me/+VIvd8j6xvm9iMzhi)
